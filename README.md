@@ -32,14 +32,14 @@
 
 Редактируем файлы:
 
-[Django_dz1\Django_dz1\settings.py](Django_dz1\Django_dz1\settings.py)
-[Django_dz1\Django_dz1\urls.py](Django_dz1\Django_dz1\urls.py)
-[Django_dz1\myapp\urls.py](Django_dz1\myapp\urls.py)  
-[Django_dz1\myapp\views.py](Django_dz1\myapp\views.py)
+- [Django_dz1/Django_dz1/Django_dz1/settings.py](/blob/main/Django_dz1/Django_dz1/settings.py)
+- [Django_dz1/Django_dz1/Django_dz1/urls.py](/blob/main/Django_dz1/Django_dz1/urls.py)
+- [Django_dz1/Django_dz1/myapp/urls.py](/blob/main/Django_dz1/Django_dz1/urls.py)
+- [Django_dz1/Django_dz1/myapp/views.py](/blob/main/Django_dz1/myapp/views.py)
 
 Файл с журналом работы:
-[logs\django.log](logs\django.log) 
-
+- [logs/django.log](/blob/main/Django_dz1/logs/django.log) 
+ 
 ## Результат работы:
 
 Главная страница проекта:

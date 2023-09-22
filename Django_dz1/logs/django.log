@@ -1,0 +1,41 @@
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 8
+"GET / HTTP/1.1" 200 13
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Work\python\Django\Django_dz1\Django_dz1\Django_dz1\settings.py changed, reloading.
+INFO 2023-09-22 13:26:47,990 views 29492 16336 Index page accessed
+INFO 2023-09-22 13:26:56,135 views 29492 29116 About page accessed
+INFO 2023-09-22 13:41:04,654 views 19624 13860 Index page accessed
+INFO 2023-09-22 13:41:20,832 views 11084 11648 Index page accessed
+INFO 2023-09-22 13:41:24,435 views 11084 15964 Index page accessed
+INFO 2023-09-22 13:41:49,269 views 28952 23432 Index page accessed
+INFO 2023-09-22 13:42:11,857 views 15128 3504 Index page accessed
+INFO 2023-09-22 13:43:31,051 views 14680 7996 Index page accessed
+INFO 2023-09-22 13:48:13,895 views 368 26184 Index page accessed
+INFO 2023-09-22 13:48:17,598 views 9760 17124 Index page accessed
+INFO 2023-09-22 13:48:19,597 views 9760 17124 Index page accessed
+INFO 2023-09-22 13:48:20,588 views 9760 29444 About page accessed
+INFO 2023-09-22 13:48:24,001 views 9760 29444 Index page accessed
+INFO 2023-09-22 13:48:24,901 views 9760 29444 About page accessed
+INFO 2023-09-22 13:48:26,262 views 9760 29444 Index page accessed
+INFO 2023-09-22 13:48:27,443 views 9760 29444 About page accessed
+INFO 2023-09-22 13:54:38,668 views 19344 27456 About page accessed
+INFO 2023-09-22 13:54:40,286 views 19344 3184 Index page accessed
+INFO 2023-09-22 13:55:22,956 views 19344 3184 About page accessed
